@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	DLAB_001_trim_R1	/data/putnamlab/flofields/ENCORE_Dlab_denovo_transcriptome/data/fastqc_results_trimmed/DLAB_001_trim_R1_fastqc.zip
+FastQC	all_sections	DLAB_001_trim_R2	/data/putnamlab/flofields/ENCORE_Dlab_denovo_transcriptome/data/fastqc_results_trimmed/DLAB_001_trim_R2_fastqc.zip
